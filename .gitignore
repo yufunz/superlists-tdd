@@ -7,3 +7,4 @@ __pychache__
 tags
 /static
 .env
+.python-version
